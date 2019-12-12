@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BG"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:dye",
+            "data": 15
+        },
+        "G":
+        {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scple:glue",
+        "count": 1
+    }
+}

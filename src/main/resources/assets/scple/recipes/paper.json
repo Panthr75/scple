@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "scp:paper_scrap"
+        },
+        {
+            "item": "scp:paper_scrap"
+        },
+        {
+            "item": "scp:paper_scrap"
+        },
+        {
+            "item": "scple:glue"
+        }
+    ],
+    "result": {
+        "item": "minecraft:paper"
+    }
+}

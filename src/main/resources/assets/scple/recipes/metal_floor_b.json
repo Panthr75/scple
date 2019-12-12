@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "M"
+    ],
+   
+    "key":
+    {
+        "M": {
+            "item": "scple:metal_floor_a"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scple:metal_floor_b",
+        "count": 1
+    }
+}

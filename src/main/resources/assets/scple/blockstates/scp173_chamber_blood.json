@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "scple:scp173_chamber_blood" }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": {
+            "model": "scple:wallg_indent_a",
+            "y": 180,
+            "x": 0
+        },
+        "facing=north": {
+            "model": "scple:wallg_indent_a",
+            "y": 180,
+            "x": 0
+        },
+        "facing=south": {
+            "model": "scple:wallg_indent_a",
+            "y": 0,
+            "x": 0
+        },
+        "facing=east": {
+            "model": "scple:wallg_indent_a",
+            "y": 270,
+            "x": 0
+        },
+        "facing=west": {
+            "model": "scple:wallg_indent_a",
+            "y": 90,
+            "x": 0
+        }
+    }
+}

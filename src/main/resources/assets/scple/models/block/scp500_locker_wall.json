@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "scple:blocks/scp500_locker_wall"
+   }
+}

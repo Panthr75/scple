@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SR",
+        "RS"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        "S":
+        {
+            "item": "minecraft:slime_ball"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scple:scp173_chamber_blood",
+        "count": 4
+    }
+}

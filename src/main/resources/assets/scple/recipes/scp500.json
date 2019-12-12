@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "PPP",
+        "PBP"
+    ],
+   
+    "key":
+    {
+        "P":
+        {
+            "item": "scp:panacea_pills"
+        },
+        "B":
+        {
+            "item": "scple:pill_bottle"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scple:scp500"
+    }
+}

@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "scple:blocks/scp173_chamber_blood"
+   }
+}

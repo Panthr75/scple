@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": [
+        {
+            "item": "scple:scp500",
+            "data": 32767
+        }
+    ],
+    "result": {
+        "item":  "scp:panacea_pills"
+    }
+}

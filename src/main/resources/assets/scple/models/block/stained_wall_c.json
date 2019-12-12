@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "scple:blocks/stained_wall_c",
+        "end": "scple:blocks/stained_wall"
+    }
+}

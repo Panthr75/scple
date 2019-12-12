@@ -1,0 +1,13 @@
+ASPECT RATIO: 29 x 41
+DOCUMENT SIZE: 319 x 451
+
+
+
+
+DOCUMENT SIZE: 348 x 492
+
+Process: 
+Open Paint 3D.
+Go to Canvas
+Change size to 580 x 820
+Choose a number, multiply it by the aspect ratio, and change the width and height to that

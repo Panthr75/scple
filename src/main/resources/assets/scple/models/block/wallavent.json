@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "scple:blocks/wallavent",
+        "end": "scple:blocks/lockdown/foundationwalla"
+    }
+}

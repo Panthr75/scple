@@ -1,0 +1,18 @@
+item.glue.name=Клей
+item.document.name=Документ
+item.document005.name=SCP-005 Документ
+
+itemGroup.scpletab=SCP Lockdown Extras
+itemGroup.scpletabdocs=SCPLE: Документы
+
+tile.metal_floor_a.name=Металлический пол А
+tile.metal_floor_b.name=Металлический пол Б
+tile.hard_metal_wall.name=Укрепленная металлическая стена
+tile.dark_concrete.name=Тёмный бетон
+tile.scp173_chamber_blood.name=Пахнущая масса
+tile.puddle106.name=Вязкое вещество 106'ого
+tile.mp1.name=Металлическая панель 1
+tile.mp2.name=Металлическая панель 2
+tile.mp3.name=Металлическая панель 3
+tile.mp4.name=Металлическая панель 4
+tile.metal_panel.name=Металлические панели

@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "scple:walla_indent_a",
+            "y": 180,
+            "x": 0
+        },
+        "facing=south": {
+            "model": "scple:walla_indent_a",
+            "y": 0,
+            "x": 0
+        },
+        "facing=east": {
+            "model": "scple:walla_indent_a",
+            "y": 270,
+            "x": 0
+        },
+        "facing=west": {
+            "model": "scple:walla_indent_a",
+            "y": 90,
+            "x": 0
+        }
+    }
+}

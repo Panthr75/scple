@@ -1,0 +1,1037 @@
+{
+    "block.metal.step": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/stepmetal1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.normal.step": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/step1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.metal.place": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/stepmetal1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.normal.place": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/step1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.metal.break": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/stepmetal1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.normal.break": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/step1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.metal.fall": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:fall/fallmetal1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.normal.fall": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:fall/fall1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall8",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.alarm": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/alarm",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.checkpoint": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/doorcheckpoint",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.lockroomsiren": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/lockroomsiren",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.tesla.idle": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/tesla/idle",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.tesla.powerup": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/tesla/powerup",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.tesla.shock": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/tesla/shock",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.tesla.windup": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/tesla/windup",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.broadcasts079.broadcast": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/broadcasts079/broadcast1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/broadcasts079/broadcast2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/broadcasts079/broadcast3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/broadcasts079/broadcast4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/broadcasts079/broadcast5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/broadcasts079/broadcast6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/broadcasts079/broadcast7",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.broadcasts079.broadcast1": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/broadcasts079/broadcast1",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.broadcasts079.broadcast2": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/broadcasts079/broadcast2",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.broadcasts079.broadcast3": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/broadcasts079/broadcast3",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.broadcasts079.broadcast4": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/broadcasts079/broadcast4",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.broadcasts079.broadcast5": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/broadcasts079/broadcast5",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.broadcasts079.broadcast6": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/broadcasts079/broadcast6",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.broadcasts079.broadcast7": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/broadcasts079/broadcast7",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient8",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient9",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient10",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/ambient/lc/ambient11",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.1": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient1",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.2": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient2",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.3": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient3",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.4": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient4",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.5": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient5",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.6": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient6",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.7": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient7",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.8": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient8",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.9": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient9",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.10": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient10",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.ambient.lc.11": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:cb/ambient/lc/ambient11",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion8",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion9",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion10",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion11",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion12",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion13",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion14",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion15",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion16",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion17",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion18",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion19",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion20",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion21",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion22",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion23",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion24",
+                "pitch": 1
+            },
+            {
+                "name": "scple:cb/commotion/commotion25",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.1": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion1",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.2": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion2",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.3": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion3",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.4": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion4",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.5": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion5",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.6": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion6",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.7": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion7",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.8": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion8",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.9": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion9",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.10": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion10",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.11": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion11",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.12": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion12",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.13": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion13",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.14": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion14",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.15": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion15",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.16": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion16",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.17": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion17",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.18": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion18",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.19": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion19",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.20": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion20",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.21": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion21",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.22": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion22",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.23": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion23",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.24": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion24",
+                "pitch": 1
+            }
+        ]
+    },
+    "cb.commotion.25": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "scple:cb/commotion/commotion25",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.door.normal.open": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:door/door1open1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door1open2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door1open3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.door.normal.close": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:door/door1close1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door1close2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door1close3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.door.heavy.open": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:door/door2open1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door2open2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door2open3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.door.heavy.close": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:door/door2close1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door2close2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door2close3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.puddle106.step": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/steplarry1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/steplarry2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/steplarry3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.puddle106.break": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:break/larrybreak1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:break/larrybreak2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:break/larrybreak3",
+                "pitch": 1
+            }
+        ]
+    }
+}

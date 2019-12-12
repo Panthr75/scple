@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "IAI",
+        "ABA",
+        "IAI"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "A":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        "B":
+        {
+            "item": "minecraft:iron_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scple:metal_floor_a",
+        "count": 64
+    }
+}

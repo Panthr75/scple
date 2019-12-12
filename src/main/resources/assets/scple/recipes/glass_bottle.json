@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": [
+        {
+            "item": "scple:pill_bottle"
+        }
+    ],
+
+    "result": {
+        "item":  "minecraft:glass_bottle"
+    }
+}
